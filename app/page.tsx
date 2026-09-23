@@ -1,0 +1,1 @@
+export default function Home(){return <main style={{maxWidth:960,margin:"40px auto",padding:24}}><h1>Förde Sparkasse – Wissensassistent</h1><p>Interner POC: RAG, Quellen, Confidence und redaktionelle Korrekturen.</p><p>Nächster Schritt: Chat/API, Crawler, Upload und Admin-Workflow implementieren.</p></main>}

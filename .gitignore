@@ -1,0 +1,11 @@
+node_modules
+.next
+.netlify
+.env
+.env.local
+knowledge/uploads/*
+!knowledge/uploads/.gitkeep
+knowledge/exports/*
+!knowledge/exports/.gitkeep
+*.log
+*.tsbuildinfo
